@@ -1,7 +1,7 @@
 # Weather-PWA
 <p align="center">
 <kdb>
-<img src="https://lh4.googleusercontent.com/EEEFxS2muI8ZV9mhhfD5WN0T4UhlVygDmq6QGNA-oc7K4UzD2ai7gWU7iPyxdgtVaLHFbvKV7NOKk0duRNm2=w1920-h842"/>
+<img src="https://i.ibb.co/ssfTbqm/Weather-PWA.png"/>
 </kdb>
 
 </p>
